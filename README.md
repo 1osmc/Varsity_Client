@@ -1,7 +1,6 @@
 [Discord](https://discord.gg/v8RKNVXpgw) | [Donate]() | [Download](https://github.com/1osmc/Varsity_Client/releases/tag/v0.1.3)
 
-
-  ![varsitylogotransbigger](https://user-images.githubusercontent.com/88940648/139746267-04076ad9-7f1c-46b4-af16-66874cad1fa9.png)
+![varsitylogotrans](https://user-images.githubusercontent.com/88940648/139746334-f190004c-0e43-4609-9244-a8d19cfb43a4.png)
 
 
 # Varsity Client
