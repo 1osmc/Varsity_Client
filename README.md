@@ -6,10 +6,9 @@
 # Varsity Client
 
 <img src="https://img.shields.io/github/downloads/1osmc/VarsityClient/total" alt="dwnlds" />
+![minecraft](https://img.shields.io/badge/Minecraft-1.12.2-blue.svg)
+[![Discord Mine](https://img.shields.io/discord/834570721070022687?label=chat&logo=discord&logoColor=white)](https://discord.gg/QjfBxJzE5x)
 
-
-
-1.12.2 forge minecraft client
 
 Made for crystalpvp and killing noobs.
 
