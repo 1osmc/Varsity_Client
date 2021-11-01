@@ -1,7 +1,7 @@
 [Discord](https://discord.gg/v8RKNVXpgw) | [Donate]() | [Download](https://github.com/1osmc/Varsity_Client/releases/tag/v0.1.3)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lambda-client/assets/main/lambda%20logo%20text.svg" style="width: 69%">
+  <https://github.com/1osmc/Varsity_Client/blob/main/varsitylogotrans.png" style="width: 69%">
 </p>
 
 # Varsity Client
