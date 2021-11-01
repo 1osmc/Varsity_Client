@@ -1,4 +1,5 @@
-![logo](src/main/resources/logo.png)
+![logo](![varsitylogotrans](https://user-images.githubusercontent.com/88940648/139744581-126a35b1-92b5-4ba3-9830-c9f816e5e2ce.png)
+)
 
 # Varsity Client
 
