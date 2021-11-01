@@ -1,2 +1,2 @@
-# Varsity_Client
+# Varsity Client
 VARSITY CLIENT ON TOP
