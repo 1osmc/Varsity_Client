@@ -1,3 +1,5 @@
+[Discord](https://discord.gg/v8RKNVXpgw) | [Donate]() | [Download](https://github.com/1osmc/Varsity_Client/releases/tag/v0.1.3)
+
 ![varsitylogotrans](https://user-images.githubusercontent.com/88940648/139744581-126a35b1-92b5-4ba3-9830-c9f816e5e2ce.png)
 
 
@@ -5,7 +7,7 @@
 
 <img src="https://img.shields.io/github/downloads/1osmc/VarsityClient/total" alt="dwnlds" />
 
-[Discord](https://discord.com/invite/hvnZePKQHx) | [Donate](https://paypal.me/trvsf) | [Download](https://github.com/TrvsF/wurst-plus-three/releases/latest)
+
 
 1.12.2 forge minecraft client
 
